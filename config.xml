@@ -14,7 +14,7 @@ Trabalhamos com todos os tipo de ativos como imóveis, veículos, equipamentos e
     <preference name="DisallowOverscroll" value="true" />
     <!-- <preference name="android-minSdkVersion" value="14" /> -->
 	 <!--  <preference name="android-minSdkVersion" value="26" /> --> <!-- android 8-->
-	   <preference name="android-minSdkVersion" value="28" /> <!-- android 8-->
+	   <preference name="android-minSdkVersion" value="28" /> <!-- android 9-->
 
 
     <plugin name="cordova-plugin-console" source="npm" spec="~1.0.2" />
