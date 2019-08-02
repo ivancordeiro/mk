@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="br.com.autozaprepasse" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-   <name>Auto Zap Repasse</name>
+<widget id="br.com.mklance" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+   <name>Mauricio Kronemberg - Leiloeiro</name>
     <description>
-         Auto Zap - Repasses de veículos
+         Soluções para vendas em Leilão tanto para o Poder Público como para o mercado privado em seus diversos segmentos. Renovações de frotas e venda de bens de forma rápida, segura e com liquidez.
+
+Trabalhamos com todos os tipo de ativos como imóveis, veículos, equipamentos e materiais industriais diversos, eletrodomésticos, móveis, produtos fora de linha, sucatas entre outros.
     </description>
-    <author email="ivancordeiro@yahoo.com.br" href="http://autozaprepasse.com.br">
-        Auto Zap
+    <author email="ivancordeiro@yahoo.com.br" href="http://ivanprogramador.com.br">
+        Ivan Programador
     </author>
     <content src="index.html" />
 
@@ -82,16 +84,16 @@
 
 
 
-<allow-navigation href="http://autozaprepasse.com.br/*" />
-<allow-navigation href="https://autozaprepasse.com.br/*" />
+<allow-navigation href="http://mklance.com.br/*" />
+<allow-navigation href="https://mklance.com.br/*" />
 
 
-<allow-intent href="http://autozaprepasse.com.br/*" />
-<allow-intent href="https://autozaprepasse.com.br/*" />
+<allow-intent href="http://mklance.com.br/*" />
+<allow-intent href="https://mklance.com.br/*" />
 
 
-<access origin="http://autozaprepasse.com.br" />
-<access origin="https://autozaprepasse.com.br" />
+<access origin="http://mklance.com.br" />
+<access origin="https://mklance.com.br" />
 
   
   <access origin="*" />
