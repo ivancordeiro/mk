@@ -2,9 +2,7 @@
 <widget id="br.com.mklance" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
    <name>Mauricio Kronemberg - Leiloeiro</name>
     <description>
-         Soluções para vendas em Leilão tanto para o Poder Público como para o mercado privado em seus diversos segmentos. Renovações de frotas e venda de bens de forma rápida, segura e com liquidez.
-
-Trabalhamos com todos os tipo de ativos como imóveis, veículos, equipamentos e materiais industriais diversos, eletrodomésticos, móveis, produtos fora de linha, sucatas entre outros.
+Leilões presenciais, online e simultâneos de veículos, imóveis, agrícolas e bens de consumo.
     </description>
     <author email="ivancordeiro@yahoo.com.br" href="http://ivanprogramador.com.br">
         Ivan Programador
@@ -12,9 +10,9 @@ Trabalhamos com todos os tipo de ativos como imóveis, veículos, equipamentos e
     <content src="index.html" />
 
     <preference name="DisallowOverscroll" value="true" />
-    <!-- <preference name="android-minSdkVersion" value="14" /> -->
+     <preference name="android-minSdkVersion" value="14" /> 
 	 <!--  <preference name="android-minSdkVersion" value="26" /> --> <!-- android 8-->
-	   <preference name="android-minSdkVersion" value="28" /> <!-- android 9-->
+	  <!-- <preference name="android-minSdkVersion" value="28" /> --> <!-- android 9-->
 
 
     <plugin name="cordova-plugin-console" source="npm" spec="~1.0.2" />
